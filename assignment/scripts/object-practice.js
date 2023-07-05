@@ -29,7 +29,7 @@ const fullName = me.firstName + " " + me.lastName;
 console.log("My full name is:", fullName);
 
 /* 3. Nested arrays
-  - Console.log your first favorite food
+  - Console.log your first favorite food 
   - Console.log your last favorite food 
 */
 
@@ -44,7 +44,7 @@ console.log(`Two of my favorite foods are: ${me.favThreeFoods[0]} and ${me.favTh
 
 console.log("My current shoe count:", me.shoeCount);
 me.shoeCount += 1;
-console.log("I just got a new pair of shoes! My shoe count is now:", me.shoeCount);
+console.log("Guess what?! I just got a new pair of shoes!!! My shoe count is now:", me.shoeCount);
 
 /* 5. Add a new property to an existing object.
   - Add a 'favoriteColor' to your existing object
